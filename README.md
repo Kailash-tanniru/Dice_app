@@ -2,6 +2,10 @@
 
 Flutter Project
 
+##APP INTERFACE 
+<img width="363" alt="dice" src="https://user-images.githubusercontent.com/69431876/158157176-f09b19f3-989e-4fa5-9dc7-1fe36ad1ba6c.png">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
